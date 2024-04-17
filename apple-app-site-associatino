@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "2DF36P8MCU.com.tooused.app",
+                "paths": [
+                    "/*" 
+                ]
+            }
+        ]
+    }
+}
