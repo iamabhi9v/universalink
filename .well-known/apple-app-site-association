@@ -8,6 +8,6 @@
                     "/*" 
                 ]
             }
-        ]
+        ],"fallback": "https://kju8v.app.link/tooused"
     }
 }
